@@ -1,0 +1,1 @@
+This course has been very educational. It has shown me the importance of utilizing both Git and Github. It has grown my interest in Software Design and Software Development.
